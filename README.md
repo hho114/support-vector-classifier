@@ -21,4 +21,4 @@ features in which there is a visible but non-linear separation between the two c
 Problem 2
 Use ‘Heart’ dataset. Remove if there is example with missing data. Split into 70-30 train test data. Fit Support Vector Classifier (Linear SVM) to the training data. Report training set and test set accuracy. Change value of C and plot training and test set accuracy with varied values of C.Provide your insights on the effect of changing C on training and test set accuracy. Experiment with other Kernels and report your findings about accuracy on Test data.
 
-[Problem 2 Solved](svm.svm-heart.ipynb)
+[Problem 2 Solved](svm-heart.ipynb)
